@@ -44,9 +44,9 @@
 # controlling nvidia chipsets. The formats for fingerprinting the current setup
 # and saving/loading the current configuration are adjusted accordingly.
 
-XRANDR=/usr/bin/xrandr
-DISPER=/usr/bin/disper
-XDPYINFO=/usr/bin/xdpyinfo
+XRANDR=xrandr
+DISPER=disper
+XDPYINFO=xdpyinfo
 PROFILES=~/.autorandr/
 CONFIG=~/.autorandr.conf
 
